@@ -1,0 +1,7 @@
+C:\Users\IOJNOWIK\source\repos\solid-principles\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.exe.config
+C:\Users\IOJNOWIK\source\repos\solid-principles\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.exe
+C:\Users\IOJNOWIK\source\repos\solid-principles\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.pdb
+C:\Users\IOJNOWIK\source\repos\solid-principles\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.csprojAssemblyReference.cache
+C:\Users\IOJNOWIK\source\repos\solid-principles\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.csproj.CoreCompileInputs.cache
+C:\Users\IOJNOWIK\source\repos\solid-principles\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.exe
+C:\Users\IOJNOWIK\source\repos\solid-principles\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.pdb
