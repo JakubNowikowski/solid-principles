@@ -1,0 +1,7 @@
+C:\Users\IOJNOWIK\source\repos\solid-principles\solid-principles\bin\Debug\solid-principles.exe.config
+C:\Users\IOJNOWIK\source\repos\solid-principles\solid-principles\bin\Debug\solid-principles.exe
+C:\Users\IOJNOWIK\source\repos\solid-principles\solid-principles\bin\Debug\solid-principles.pdb
+C:\Users\IOJNOWIK\source\repos\solid-principles\solid-principles\obj\Debug\SRP.csprojAssemblyReference.cache
+C:\Users\IOJNOWIK\source\repos\solid-principles\solid-principles\obj\Debug\SRP.csproj.CoreCompileInputs.cache
+C:\Users\IOJNOWIK\source\repos\solid-principles\solid-principles\obj\Debug\solid-principles.exe
+C:\Users\IOJNOWIK\source\repos\solid-principles\solid-principles\obj\Debug\solid-principles.pdb
