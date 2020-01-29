@@ -1,0 +1,7 @@
+C:\Users\IOJNOWIK\source\repos\solid-principles\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe.config
+C:\Users\IOJNOWIK\source\repos\solid-principles\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\IOJNOWIK\source\repos\solid-principles\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.pdb
+C:\Users\IOJNOWIK\source\repos\solid-principles\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csprojAssemblyReference.cache
+C:\Users\IOJNOWIK\source\repos\solid-principles\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\IOJNOWIK\source\repos\solid-principles\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\IOJNOWIK\source\repos\solid-principles\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.pdb
