@@ -1,0 +1,7 @@
+C:\Users\IOJNOWIK\source\repos\solid-principles\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe.config
+C:\Users\IOJNOWIK\source\repos\solid-principles\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe
+C:\Users\IOJNOWIK\source\repos\solid-principles\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.pdb
+C:\Users\IOJNOWIK\source\repos\solid-principles\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csprojAssemblyReference.cache
+C:\Users\IOJNOWIK\source\repos\solid-principles\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\IOJNOWIK\source\repos\solid-principles\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.exe
+C:\Users\IOJNOWIK\source\repos\solid-principles\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.pdb
