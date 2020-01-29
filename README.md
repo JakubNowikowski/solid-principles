@@ -6,3 +6,4 @@ https://www.codeproject.com/Articles/703634/SOLID-architecture-principles-using-
 https://www.dotnettricks.com/learn/designpatterns/solid-design-principles-explained-using-csharp
 https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/
 https://www.p-programowanie.pl/paradygmaty-programowania/zasady-solid/#more-2792
+http://itcraftsman.pl/solidny-jak-solid-pisanie-solidnych-aplikacji-w-jezyku-c/
